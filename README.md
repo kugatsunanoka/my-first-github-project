@@ -7,3 +7,7 @@ Web Disgner
 
 ## 목표
 Github 협업 경험 쌓기
+
+## 취미
+음악
+영화
